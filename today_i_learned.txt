@@ -1,3 +1,7 @@
+09/21/2021
 Today I learned a lot things. I learned how to clone from Github and join the project. Thank you.
 It's wonderful to learn new stuffs on GITHub everyday.
 I appreciate your efforts to teach us great things. Thank you.
+
+09/22/2021
+Today I learned about functions in SQL. I also learned about Group By in SQL. It was quite interesting to learn on Indexes, Joins and how data from different tables could be connected.
