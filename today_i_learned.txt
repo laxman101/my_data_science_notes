@@ -4,4 +4,11 @@ It's wonderful to learn new stuffs on GITHub everyday.
 I appreciate your efforts to teach us great things. Thank you.
 
 09/22/2021
-Today I learned about functions in SQL. I also learned about Group By in SQL. It was quite interesting to learn on Indexes, Joins and how data from different tables could be connected.
+Today I learned about functions in SQL. I also learned about Group By in SQL. 
+It was quite interesting to learn on Indexes, Joins and how data from different tables could be connected.
+
+9/23/2021
+Today I learned on inner join, left join and right join in SQL. 
+Inner join is the basic join that gives the results of both the left and right tables values for their respective keys. 
+Left join gives all the records from the left table regardless of having corresponding records in the right table. 
+Right join works exactly in the other way where right table provides all the records whether or not it has a corresponding records in the left table.
