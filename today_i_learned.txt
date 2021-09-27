@@ -12,3 +12,13 @@ Today I learned on inner join, left join and right join in SQL.
 Inner join is the basic join that gives the results of both the left and right tables values for their respective keys. 
 Left join gives all the records from the left table regardless of having corresponding records in the right table. 
 Right join works exactly in the other way where right table provides all the records whether or not it has a corresponding records in the left table.
+
+9/27/2021
+
+Last week, we had studied indexes and joins in the class. I learned how to join the syntax in order to get the results to my queries.
+Furthermore, by doing exercises, I got an opportunity to familiar with solving the real life problems in the companies. For example:
+how to find the current employess who has the highest salary in the specific department; how to find the female employees whose salary is more 
+than $75,000 in the customer service department etc.
+Similarly, I learned how to join the different columns of more than 2 tables with the common columns in those tables in order to get the 
+information to our queries. It's fascinating to learn to get the needed information from connecting rows and columns from different
+tables.
