@@ -26,3 +26,8 @@ tables.
 10/22/2021
 
 Today I had a Pandas Assessment in class. I was little nervous during the assessment as the questions were really challenging. However, I got an opportunity to learn some good Python / Pandas coding while taking the assessment. The review after the assessment was quite refreshing on the materials on Python / Pandas. After lunch, I had a lecture on spreadsheet. It's quite surprising to know that we can do a lot of things in spreadsheet and Mr. Rabindra told us that spreadsheet has been continuously updated and added new features and functionality regularly. Some of the things that we do in Python and SQL could be done simply in spreadsheet. The beauty of spreadsheet is that more than one person can work on the same project as a team. I hope to learn more stuffs on spreadsheet when I do spreadsheet exercises.
+
+10/27/2021
+Today I learned a lot about Tableau. It's quite fascinating to know that we can use this platform to do the data visualization for the business needs.
+Basically I learned how to connect to data on Tableau, how to create charts on Tableau, how to custom fields, dashboards and stories. I will get more familiar while
+I will be doing Tableau Exercises.
